@@ -1,0 +1,18 @@
+[
+  {
+    "tipoBrackets": "Metálicos",
+    "planDentalPrevio": false,
+    "financiamientoActivo": true,
+    "descripcion": "Ortodoncia metálica superior",
+    "sesiones": 12,
+    "duracion": 45
+  },
+  {
+    "tipoBrackets": "Estéticos",
+    "planDentalPrevio": true,
+    "financiamientoActivo": false,
+    "descripcion": "Ortodoncia estética inferior",
+    "sesiones": 10,
+    "duracion": 40
+  }
+]

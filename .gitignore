@@ -1,0 +1,10 @@
+# Archivos generados al compilar
+target/
+*.class
+
+# Configuración local de IntelliJ
+.idea/
+*.iml
+
+# Archivos de macOS
+.DS_Store

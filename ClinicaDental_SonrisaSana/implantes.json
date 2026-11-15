@@ -1,0 +1,14 @@
+[
+  {
+    "coronaPorcelana": true,
+    "descripcion": "Implante unitario molar",
+    "sesiones": 3,
+    "duracion": 90
+  },
+  {
+    "coronaPorcelana": false,
+    "descripcion": "Implante unitario incisivo",
+    "sesiones": 2,
+    "duracion": 75
+  }
+]
