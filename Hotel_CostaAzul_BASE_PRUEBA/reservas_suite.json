@@ -1,0 +1,14 @@
+[
+  {
+    "vistaMar": true,
+    "huesped": "Valentina Soto",
+    "noches": 2,
+    "cantidadHuespedes": 2
+  },
+  {
+    "vistaMar": false,
+    "huesped": "Matías Peña",
+    "noches": 1,
+    "cantidadHuespedes": 3
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "tipoCama": "Matrimonial",
+    "tarifaSocio": false,
+    "financiamientoActivo": true,
+    "huesped": "Camila Rojas",
+    "noches": 2,
+    "cantidadHuespedes": 2
+  },
+  {
+    "tipoCama": "Individual",
+    "tarifaSocio": true,
+    "financiamientoActivo": false,
+    "huesped": "Nicolás Vera",
+    "noches": 3,
+    "cantidadHuespedes": 1
+  },
+  {
+    "tipoCama": "King Size",
+    "tarifaSocio": true,
+    "financiamientoActivo": true,
+    "huesped": "Daniel Córdova",
+    "noches": 5,
+    "cantidadHuespedes": 2
+  }
+]
